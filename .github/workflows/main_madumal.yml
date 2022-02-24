@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'madumal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D6A717FD6C34F62AD73163129688AE4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E8902E197D44C5D9304FEBE7ABDD848 }}
           package: .
