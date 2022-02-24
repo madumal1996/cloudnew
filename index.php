@@ -1,3 +1,9 @@
+<html>
+<body>
+
 <?php
-   echo "hi" 
+echo "My first PHP script!";
 ?>
+
+</body>
+</html>
